@@ -1,0 +1,6 @@
+_site
+_cache
+.env
+.direnv/
+public
+resources
