@@ -4,3 +4,4 @@ _cache
 .direnv/
 public
 resources
+.hugo_build.lock
