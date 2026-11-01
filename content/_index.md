@@ -4,7 +4,7 @@ title: Lillian's Blog
 
 # Lillian
 
-## Profile
+## About me
 
 I'm a 16 year-old student at a National Institute of Technology focused on
 infrastructure engineering.
