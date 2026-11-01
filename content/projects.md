@@ -32,4 +32,4 @@ verified against hashlib. Built as an interactive Google Colab notebook.
 
 Tech: Python / Google Colab
 
-[Google Colab](https://colab.research.google.com/drive/1ADLH2Yb44MHC8xvqTZGgj6MWHUbEa_IV)
+[Repository](https://github.com/lillian0x/rsa-and-sha256-written-in-python)
