@@ -1,8 +1,5 @@
 <header>
-  <a
-    href="{{ "/" | relURL }}"
-    class="logo"
-    >{{.Site.Title}}</a>
+  <a href="{{ site.Home.RelPermalink }}" class="logo">{{ .Site.Title }}</a>
   <nav>
     <a
       href="{{ "projects/" | relURL }}"
