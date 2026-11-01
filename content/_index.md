@@ -14,7 +14,7 @@ hardened.
 
 Currently exploring Linux systems, networking, and Kubernetes.
 
-## Project
+## Projects
 
 [My projects is here](/projects)
 
