@@ -1,11 +1,11 @@
 <header>
   <a
-    href="/"
+    href="{{ "/" | relURL }}"
     class="logo"
     >{{.Site.Title}}</a>
   <nav>
     <a
-      href="/projects"
+      href="{{ "projects/" | relURL }}"
       class="nav-link"
     >Projects</a>
   </nav>
