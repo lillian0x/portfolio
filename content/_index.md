@@ -6,27 +6,22 @@ title: Lillian's Blog
 
 ## About me
 
-I'm a 16 year-old student at a National Institute of Technology focused on
-infrastructure engineering.
+I'm a 16 year-old student at a National Institute of Technology focused on infrastructure engineering.
 
-I enjoy building and maintaining system that are declarative, relaiable, and
-hardened.
+I enjoy building and maintaining systems that are declarative, reliable, and hardened.
 
 Currently exploring Linux systems, networking, and Kubernetes.
 
+ My life is basically one long yak shave.
+
 ## Projects
 
-[My projects is here](/projects)
+[Browse my projects](/projects)
 
 ## Tools & Environment
 
-I use Nix for reproducible environments, Neovim for efficient editing, and Linux
-as my primary system.
+I use Nix for reproducible environments and Linux as my primary system.
+I do all my Japanese input using SKK inside Neovim.
+I love tiling window managers such as Hyprland.
 
-I love tiling window manager.
-
-- Neovim
-- nix / NixOS
-- Hyprland
-
-[My dotfiles is here](https://codeberg.org/lillian0x/dotfiles)
+[My dotfiles are here](https://codeberg.org/lillian0x/dotfiles)
