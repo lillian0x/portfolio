@@ -1,0 +1,12 @@
+<div class="card">
+  <h2 class="card-title">{{ .Get "title" }}</h2>
+  <div class="card-body">{{ .Inner | markdownify }}</div>
+  {{ with .Get "tech" }}
+  <ul class="card-tags">
+    {{ range split . " / " }}<li>{{ . }}</li>{{ end }}
+  </ul>
+  {{ end }}
+  {{ with .Get "url" }}
+  <a class="card-link" href="{{ . }}" target="_blank" rel="noopener">Repository →</a>
+  {{ end }}
+</div>
